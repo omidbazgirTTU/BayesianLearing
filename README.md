@@ -1,2 +1,2 @@
 # BayesianLearing
-Here I keep my practices and codes on bayesian statistics and bayesian learning. It is mainly for my own learning purpose, but I comment my code, so if somebody finds them useful, would be able to understand them.
+Here I keep my practices and codes on bayesian statistics and bayesian learning. It is mainly for my own learning purpose, but I comment my code, so if somebody finds them useful, would be able to understand them. To practice and learn Bayesian machine learning I used Dr. De Freitas lectures on YouTube (https://www.youtube.com/watch?v=Fae0j1WN1zA&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=6). The codes and examples written in this repository are justified according to his lectures.
